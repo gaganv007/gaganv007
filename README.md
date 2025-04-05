@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gagan Veginati</h1>
-<h3 align="center">A passionate frontend developer and an artificial intelligence enthusiast from India</h3>
+<h3 align="center">A passionate AI/ML developer and a tech enthusiast</h3>
 
 - 🌱 I’m currently learning **Deep learning techniques**
 
