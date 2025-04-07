@@ -47,7 +47,6 @@ Built a CNN model achieving 98.65% accuracy on autistic children facial images, 
 <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="70" alt="JavaScript">
 <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="70" alt="React">
 <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="70" alt="HTML">
-<img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-8f75-4484-9d9a-04ed52587404.gif" width="70" alt="CSS">
 <img src="https://user-images.githubusercontent.com/74038190/212280823-79088828-a258-4a4d-8d6c-96315d5a07af.gif" width="70" alt="AWS">
 
 <br/>
@@ -72,10 +71,6 @@ Built a CNN model achieving 98.65% accuracy on autistic children facial images, 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gaganv007&theme=radical" alt="Gagan's GitHub streak" />
   
   <img src="https://github-profile-trophy.vercel.app/?username=gaganv007&theme=radical&no-frame=false&no-bg=true&margin-w=4" width="100%" alt="Trophy" />
-</div>
-
-<div align="center">
-  <img src="https://github.com/gaganv007/gaganv007/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"> Currently Learning
