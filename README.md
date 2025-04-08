@@ -42,35 +42,69 @@ Built a CNN model achieving 98.65% accuracy on autistic children facial images, 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"> Tech Stack
 
 <div align="center">
-  
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="70" alt="Python">
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="70" alt="JavaScript">
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="70" alt="React">
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="70" alt="HTML">
-<img src="https://user-images.githubusercontent.com/74038190/212280823-79088828-a258-4a4d-8d6c-96315d5a07af.gif" width="70" alt="AWS">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
 
-<br/>
+  <br/>
   
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+  
+  <br/>
+  
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
 </div>
 
-## <img src="https://user-images.githubusercontent.com/74038190/212744289-c46f1717-bfc9-4724-8ef3-4b08e3583110.gif" width="30"> GitHub Stats
+## <img src="https://user-images.githubusercontent.com/74038190/212744289-c46f1717-bfc9-4724-8ef3-4b08e3583110.gif" width="30"> GitHub Stats (2025)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gaganv007&show_icons=true&theme=radical" alt="Gagan's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gaganv007&theme=radical" alt="Gagan's GitHub streak" />
+  <div style="border: 2px solid #ff3068; border-radius: 10px; padding: 15px; background: #1a1b27; width: 80%; margin: 0 auto;">
+    <h3 style="color: #ff3068; text-align: center; margin-bottom: 15px;">Gagan Veginati's 2025 GitHub Activity</h3>
+    <table style="width: 100%; border-collapse: collapse;">
+      <tr>
+        <td style="width: 33%; text-align: center; padding: 10px;">
+          <div style="font-size: 28px; color: #ff3068; font-weight: bold;">12</div>
+          <div style="color: #9f9f9f;">Total Commits</div>
+        </td>
+        <td style="width: 33%; text-align: center; padding: 10px;">
+          <div style="font-size: 28px; color: #ff3068; font-weight: bold;">3</div>
+          <div style="color: #9f9f9f;">Current Streak</div>
+        </td>
+        <td style="width: 33%; text-align: center; padding: 10px;">
+          <div style="font-size: 28px; color: #ff3068; font-weight: bold;">2</div>
+          <div style="color: #9f9f9f;">Repositories Contributed</div>
+        </td>
+      </tr>
+    </table>
+    <div style="background: #2a2b3d; height: 2px; width: 100%; margin: 15px 0;"></div>
+    <div style="display: flex; justify-content: space-around; color: #9f9f9f;">
+      <div>
+        <span>🏆 PRs: <b style="color: #ff3068;">1</b></span>
+      </div>
+      <div>
+        <span>⭐ Stars: <b style="color: #ff3068;">0</b></span>
+      </div>
+      <div>
+        <span>📅 Active Since: <b style="color: #ff3068;">Apr 5, 2025</b></span>
+      </div>
+    </div>
+  </div>
   
-  <img src="https://github-profile-trophy.vercel.app/?username=gaganv007&theme=radical&no-frame=false&no-bg=true&margin-w=4" width="100%" alt="Trophy" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gaganv007&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=00000000&ring=ff3068&fire=ff3068&currStreakNum=ff3068&sideNums=ff3068" alt="Current streak" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500" alt="dev animation" />
 </div>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"> Currently Learning
