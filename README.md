@@ -65,7 +65,7 @@ Built a CNN model achieving 98.65% accuracy on autistic children facial images, 
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
 </div>
 
-## <img src="https://user-images.githubusercontent.com/74038190/212744289-c46f1717-bfc9-4724-8ef3-4b08e3583110.gif" width="30"> GitHub Stats (2025)
+<!-- ## <img src="https://user-images.githubusercontent.com/74038190/212744289-c46f1717-bfc9-4724-8ef3-4b08e3583110.gif" width="30"> GitHub Stats (2025)
 
 <div align="center">
   <div style="border: 2px solid #ff3068; border-radius: 10px; padding: 15px; background: #1a1b27; width: 80%; margin: 0 auto;">
@@ -105,7 +105,7 @@ Built a CNN model achieving 98.65% accuracy on autistic children facial images, 
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500" alt="dev animation" />
-</div>
+</div> -->
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"> Currently Learning
 
