@@ -65,37 +65,15 @@ Built a CNN model achieving 98.65% accuracy on autistic children facial images, 
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
 </div>
 
-<!-- ## <img src="https://user-images.githubusercontent.com/74038190/212744289-c46f1717-bfc9-4724-8ef3-4b08e3583110.gif" width="30"> GitHub Stats (2025)
+## <img src="https://user-images.githubusercontent.com/74038190/212744289-c46f1717-bfc9-4724-8ef3-4b08e3583110.gif" width="30"> GitHub Stats
 
 <div align="center">
   <div style="border: 2px solid #ff3068; border-radius: 10px; padding: 15px; background: #1a1b27; width: 80%; margin: 0 auto;">
-    <h3 style="color: #ff3068; text-align: center; margin-bottom: 15px;">Gagan Veginati's 2025 GitHub Activity</h3>
-    <table style="width: 100%; border-collapse: collapse;">
-      <tr>
-        <td style="width: 33%; text-align: center; padding: 10px;">
-          <div style="font-size: 28px; color: #ff3068; font-weight: bold;">12</div>
-          <div style="color: #9f9f9f;">Total Commits</div>
-        </td>
-        <td style="width: 33%; text-align: center; padding: 10px;">
-          <div style="font-size: 28px; color: #ff3068; font-weight: bold;">3</div>
-          <div style="color: #9f9f9f;">Current Streak</div>
-        </td>
-        <td style="width: 33%; text-align: center; padding: 10px;">
-          <div style="font-size: 28px; color: #ff3068; font-weight: bold;">2</div>
-          <div style="color: #9f9f9f;">Repositories Contributed</div>
-        </td>
-      </tr>
-    </table>
+    <h3 style="color: #ff3068; text-align: center; margin-bottom: 15px;">Gagan Veginati's GitHub Activity</h3>
     <div style="background: #2a2b3d; height: 2px; width: 100%; margin: 15px 0;"></div>
     <div style="display: flex; justify-content: space-around; color: #9f9f9f;">
       <div>
-        <span>🏆 PRs: <b style="color: #ff3068;">1</b></span>
-      </div>
-      <div>
-        <span>⭐ Stars: <b style="color: #ff3068;">0</b></span>
-      </div>
-      <div>
-        <span>📅 Active Since: <b style="color: #ff3068;">Apr 5, 2025</b></span>
+        <span>📅 Active Since: <b style="color: #ff3068;">Apr 6, 2021</b></span>
       </div>
     </div>
   </div>
@@ -105,7 +83,7 @@ Built a CNN model achieving 98.65% accuracy on autistic children facial images, 
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500" alt="dev animation" />
-</div> -->
+</div>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"> Currently Learning
 
