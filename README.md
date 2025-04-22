@@ -35,6 +35,7 @@ Built a CNN model achieving 98.65% accuracy on autistic children facial images, 
 
 ## 💼 Experience
 
+- **Graduate Assistant** - Boston University (2025-Present)
 - **Data Researcher Intern** - SRM University AP (2023-2024)
 - **Mobile App Developer Intern** - Winfra Tech Ltd (2022)
 - **Sports Secretary** - SRM University AP (2023-2024)
@@ -46,7 +47,7 @@ Built a CNN model achieving 98.65% accuracy on autistic children facial images, 
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
+  <img src="https://img.shields.io/badge/Neural%20Networks-8A2BE2?style=for-the-badge" alt="Neural Networks"/>
 
   <br/>
   
@@ -60,7 +61,6 @@ Built a CNN model achieving 98.65% accuracy on autistic children facial images, 
   
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
 </div>
@@ -78,7 +78,9 @@ Built a CNN model achieving 98.65% accuracy on autistic children facial images, 
     </div>
   </div>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gaganv007&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=00000000&ring=ff3068&fire=ff3068&currStreakNum=ff3068&sideNums=ff3068" alt="Current streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gaganv007&show_icons=true&theme=radical&hide_border=true&count_private=true&hide=contribs,prs" alt="Gagan's GitHub stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaganv007&layout=compact&theme=radical&hide_border=true&langs_count=6&custom_title=Most%20Used%20Languages" alt="Gagan's top languages" />
 </div>
 
 <div align="center">
