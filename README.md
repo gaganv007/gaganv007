@@ -65,22 +65,16 @@ Built a CNN model achieving 98.65% accuracy on autistic children facial images, 
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
 </div>
 
-## <img src="https://user-images.githubusercontent.com/74038190/212744289-c46f1717-bfc9-4724-8ef3-4b08e3583110.gif" width="30"> GitHub Stats
+## <img src="https://user-images.githubusercontent.com/74038190/212744289-c46f1717-bfc9-4724-8ef3-4b08e3583110.gif" width="30"> Coding Profile
 
 <div align="center">
-  <div style="border: 2px solid #ff3068; border-radius: 10px; padding: 15px; background: #1a1b27; width: 80%; margin: 0 auto;">
-    <h3 style="color: #ff3068; text-align: center; margin-bottom: 15px;">Gagan Veginati's GitHub Activity</h3>
-    <div style="background: #2a2b3d; height: 2px; width: 100%; margin: 15px 0;"></div>
-    <div style="display: flex; justify-content: space-around; color: #9f9f9f;">
-      <div>
-        <span>📅 Active Since: <b style="color: #ff3068;">Apr 6, 2021</b></span>
-      </div>
-    </div>
-  </div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaganv007&layout=compact&theme=radical&hide_border=true&langs_count=6&custom_title=My%20Tech%20Arsenal" alt="Gagan's top languages" width="355px" />
   
-  <img src="https://github-readme-stats.vercel.app/api?username=gaganv007&show_icons=true&theme=radical&hide_border=true&count_private=true&hide=contribs,prs" alt="Gagan's GitHub stats" />
+  <a href="https://github.com/gaganv007">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gaganv007&theme=radical&utcOffset=8&range=current_year" alt="Gagan's Current Year Activity" width="355px" />
+  </a>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaganv007&layout=compact&theme=radical&hide_border=true&langs_count=6&custom_title=Most%20Used%20Languages" alt="Gagan's top languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=gaganv007&theme=radical&no-frame=true&row=1&column=6" alt="Gagan's Trophies" width="685px"/>
 </div>
 
 <div align="center">
