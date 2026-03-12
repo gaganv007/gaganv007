@@ -35,7 +35,7 @@ Built a CNN model achieving 98.65% accuracy on autistic children facial images, 
 
 ## 💼 Experience
 
-- **Graduate Assistant** - Boston University (2025-Present)
+- **Graduate Assistant** - Boston University (2025)
 - **Data Researcher Intern** - SRM University AP (2023-2024)
 - **Mobile App Developer Intern** - Winfra Tech Ltd (2022)
 - **Sports Secretary** - SRM University AP (2023-2024)
